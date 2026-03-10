@@ -1,3 +1,3 @@
 # Paper
-Runnable repository for paper submission
+Runnable repository for paper submission.
 
